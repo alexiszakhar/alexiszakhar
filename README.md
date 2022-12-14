@@ -1,0 +1,3 @@
+- 👋 Hi, I’m alexis
+- 👀 I’m interested in it devloppment
+- 🌱 I’m currently work with different programming language like JAVA etc ...
